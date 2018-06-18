@@ -75,6 +75,6 @@ if __name__ == '__main__':
 		meta_read = f.read().split('\n')
 	f_nm = meta_read[IDX].split(',')[0]
 	print("file name: {}".format(f_nm))
-	"""base_url = "https://bulkdata.uspto.gov/data/patent/grant/redbook/fulltext/{}/".format(YEAR)
+	base_url = "https://bulkdata.uspto.gov/data/patent/grant/redbook/fulltext/{}/".format(YEAR)
 	weekly_xml_files(f_nm, base_url)
-	"""
+	
