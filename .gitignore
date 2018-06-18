@@ -1,8 +1,13 @@
 ## git ignore 
 
-## script file
-untitle*.py
-
 ## directory
 /temp*
 /utility*
+
+
+## script file
+untitle*.py
+
+
+## log file
+geckodriver.log
