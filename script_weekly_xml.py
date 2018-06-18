@@ -68,14 +68,13 @@ def weekly_xml_files(f_nm, base_url):
 if __name__ == '__main__':
 
 	#YEAR, IDX = 2018, 11
-	YEAR, IDX = sys.argv[1], sys.argv[2]
+	YEAR, IDX = sys.argv[1], int(sys.argv[2])
+	if IDX < 1: sys.exit()
 
-	import pandas as pd
-	meta = pd.read_csv('./metadata_zip_file/metadata_{}.csv'.format(YEAR))
-	print(meta.shape)
-
-	f_nm = meta[meta.columns[0]][IDX]
+	with open('./metadata_zip_file/metadata_{}.csv'.format(YEAR), 'r') as f:
+		meta_read = f.read().split('\n')
+	f_nm = meta_read[IDX].split(',')[0]
 	print("file name: {}".format(f_nm))
-	base_url = "https://bulkdata.uspto.gov/data/patent/grant/redbook/fulltext/{}/".format(YEAR)
+	"""base_url = "https://bulkdata.uspto.gov/data/patent/grant/redbook/fulltext/{}/".format(YEAR)
 	weekly_xml_files(f_nm, base_url)
-
+	"""
