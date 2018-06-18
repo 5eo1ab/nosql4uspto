@@ -1,7 +1,7 @@
 ## git ignore 
 
 ## script file
-untitled.py
+untitle*.py
 
 ## directory
 /temp*
