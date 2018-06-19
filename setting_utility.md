@@ -1,17 +1,20 @@
 # setting for utility
 
-if not exist 'utility' directory   
+## install python-pip
 ```
-$ mkdir utility
+$ cd ~
+$ sudo apt update
+$ sudo apt install python3 python3-dev
+$ wget https://bootstrap.pypa.io/get-pip.py
+$ sudo python3 get-pip.py
+$ pip3 --version
+pip 10.0.1 from /usr/local/lib/python3.5/dist-packages/pip (python 3.5)
 ```
 
-## install geckodriver 
+## install selenium & chrome-driver
 ```
-$ cd ./utility
-$ wget https://github.com/mozilla/geckodriver/releases/download/v0.21.0/geckodriver-v0.21.0-linux64.tar.gz
-$ tar -xvzf geckodriver-v0.21.0-linux64.tar.gz 
-$ chmod +x geckodriver
-$ export PATH=$PATH:~/seo/nosql4uspto/utility/geckodriver ??
-$ sudo mv geckodriver /usr/local/bin
+# install selenium
+$ sudo pip3 install selenium
+$ sudo apt-get install chromium-chromedriver
 ```
 

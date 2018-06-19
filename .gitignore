@@ -11,3 +11,4 @@ untitle*.py
 
 ## log file
 geckodriver.log
+ghostdriver.log
