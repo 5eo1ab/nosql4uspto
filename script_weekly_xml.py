@@ -37,12 +37,15 @@ def weekly_xml_files(f_nm, base_url):
 		browser = webdriver.Firefox(firefox_profile=fp)
 		#browser.set_page_load_timeout(500) # default : 300
 		"""
-		browser.get(base_url+f_nm)
-		import time
-		while not os.path.isfile('./temp_file/{}'.format(f_nm)):
-			print('#', end='')
-			time.sleep(10)
-		browser.close()
+		try:
+			browser.get(base_url+f_nm)
+			import time
+			while not os.path.isfile('./temp_file/{}'.format(f_nm)):
+				print('#', end='')
+				time.sleep(10)
+			browser.close()
+		except Exception as e:
+			print("Exception Msg.: {}".format(e))
 		print("\n[1] download ZIP file: {}".format(f_nm))
 	# [2] unzip ZIP file to concatnated XML file
 	if os.path.exists('./temp_file/{}.xml'.format(f_nm[:-4])):
