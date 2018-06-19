@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v45-2014-04-03.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.5 2014-04-03" file="USD0807618-20180116.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20180102" date-publ="20180116">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>D0807618</doc-number>
+<kind>S1</kind>
+<date>20180116</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="design">
+<document-id>
+<country>US</country>
+<doc-number>29555609</doc-number>
+<date>20160223</date>
+</document-id>
+</application-reference>
+<us-application-series-code>29</us-application-series-code>
+<us-term-of-grant>
+<length-of-grant>15</length-of-grant>
+</us-term-of-grant>
+<classification-locarno>
+<edition>11</edition>
+<main-classification>0203</main-classification>
+</classification-locarno>
+<classification-national>
+<country>US</country>
+<main-classification>D 2878</main-classification>
+<further-classification> D2501</further-classification>
+</classification-national>
+<invention-title id="d2e53">Hooded scarf</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>1316778</doc-number>
+<kind>A</kind>
+<name>Ensten</name>
+<date>19190900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A42B 1/045</classification-cpc-text>
+<classification-national><country>US</country><main-classification>  2172</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>1399523</doc-number>
+<kind>A</kind>
+<name>Sable</name>
+<date>19211200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A41D 23/00</classification-cpc-text>
+<classification-national><country>US</country><main-classification>  2203</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>1720560</doc-number>
+<kind>A</kind>
+<name>Lipper</name>
+<date>19290700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A42B 1/041</classification-cpc-text>
+<classification-national><country>US</country><main-classification>  2171</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>1809511</doc-number>
+<kind>A</kind>
+<name>Davis</name>
+<date>19310600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A42B 1/041</classification-cpc-text>
+<classification-national><country>US</country><main-classification>132274</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>1914544</doc-number>
+<kind>A</kind>
+<name>Villa</name>
+<date>19330600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A42B 1/041</classification-cpc-text>
+<classification-national><country>US</country><main-classification>  21958</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>D136853</doc-number>
+<kind>S</kind>
+<name>Goodman</name>
+<date>19431200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 2879</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>D138607</doc-number>
+<kind>S</kind>
+<name>Schoer</name>
+<date>19440800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 2879</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>2496953</doc-number>
+<kind>A</kind>
+<name>Pinnere</name>
+<date>19500200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A41D 23/00</classification-cpc-text>
+<classification-national><country>US</country><main-classification>  2207</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>2665427</doc-number>
+<kind>A</kind>
+<name>Street</name>
+<date>19540100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A42B 1/041</classification-cpc-text>
+<classification-national><country>US</country><main-classification>  2174</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>D190949</doc-number>
+<kind>S</kind>
+<name>Small</name>
+<date>19610700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 2500</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>D408966</doc-number>
+<kind>S</kind>
+<name>Lawrence</name>
+<date>19990500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 2823</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>D410382</doc-number>
+<kind>S</kind>
+<name>Therriault</name>
+<date>19990600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 2823</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>D472367</doc-number>
+<kind>S</kind>
+<name>Maya</name>
+<date>20030400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 2880</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>7117544</doc-number>
+<kind>B2</kind>
+<name>Kanitz</name>
+<date>20061000</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>D555330</doc-number>
+<kind>S</kind>
+<name>Cass</name>
+<date>20071100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 2501</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>D617533</doc-number>
+<kind>S</kind>
+<name>Douglas</name>
+<date>20100600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 2825</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>D621591</doc-number>
+<kind>S</kind>
+<name>Gloege</name>
+<date>20100800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>D629180</doc-number>
+<kind>S</kind>
+<name>Hood</name>
+<date>20101200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 2880</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>D632058</doc-number>
+<kind>S</kind>
+<name>Pritchett</name>
+<date>20110200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 2823</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>8505117</doc-number>
+<kind>B2</kind>
+<name>Park</name>
+<date>20130800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>D694989</doc-number>
+<kind>S</kind>
+<name>Kelly</name>
+<date>20131200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 2502</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>D704420</doc-number>
+<kind>S</kind>
+<name>Krampitz</name>
+<date>20140500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 2880</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>D734594</doc-number>
+<kind>S</kind>
+<name>Phillips</name>
+<date>20150700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 2880</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>D750867</doc-number>
+<kind>S</kind>
+<name>Lake</name>
+<date>20160300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 2502</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00025">
+<document-id>
+<country>US</country>
+<doc-number>D770144</doc-number>
+<kind>S</kind>
+<name>Lumpkin-Loving</name>
+<date>20161100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 2866</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00026">
+<document-id>
+<country>US</country>
+<doc-number>9504362</doc-number>
+<kind>B1</kind>
+<name>Skinner</name>
+<date>20161100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A47K 10/02</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00027">
+<document-id>
+<country>KR</country>
+<doc-number>3020060032185</doc-number>
+<date>20060800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00028">
+<othercit>Scarf? Hood? Who Cares! . . . [on-line]; [publication posted to the Internet on Nov. 4, 2009]; [retrieved on Feb. 24, 2017]; URL: http://www.refinery29.com/scarf-hood-snoods. (2 pages).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00029">
+<othercit>Crochet Pattern: Hooded Scarf Version 2, [on-line]; [review posted to the Internet on Oct. 30, 2012]; [retrieved from the Internet on Feb. 24, 2017]; URL: http://www.crochetspot.com/crochet-pattern-hooded-scarf-version-2-3-sizes/. (1 page).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00030">
+<othercit>Green Hooded Scarf, [on-line]; [review posted to Internet Aug. 21, 2013]; [retrieved from the Internet Feb. 24, 2017]; URL: https://www.etsy.com/listing/75246629/green-hooded-scarfga<sub>&#x2014;</sub>order=most<sub>&#x2014;</sub>relevant&#x26;ga<sub>&#x2014;</sub>search<sub>&#x2014;</sub>type=all&#x26;ga<sub>&#x2014;</sub>view<sub>&#x2014;</sub>type=gallery&#x26;ga<sub>&#x2014;</sub>search<sub>&#x2014;</sub>query=hoodedscarf&#x26;ref=sc<sub>&#x2014;</sub>gallery<sub>&#x2014;</sub>8&#x26;plkey=8f7d701e256803c7c239a917d439be7baa64e9d8:75246629. (3 pages).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00031">
+<othercit>Hooded Scarf. Long Scarf. Wool Scarf . . . Charcoal Scar, [on-line]; [review posted to the Internet on Oct. 23, 2014]; [retrieved from the Internet on Mar. 3, 2017]; URL: &#x3c;https://www.etsy.com/listing/167891909/hooded-scarf-long-scarf-wool-scarf?ref=shop<sub>&#x2014;</sub>review&#x3e;. (4 pages).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00032">
+<othercit>Hooded Scarf. Long Scarf. Wool Scarf. Chunky Scarf . . . [on-line]; [review posted to the Internet on Nov. 4, 2014]; [retrieved from the Internet on Mar. 3, 2017]; URL: &#x3c;https://www.etsy.com/listing/174393846/hooded-scarf-long-scarf-wool-scarf?ref=shop<sub>&#x2014;</sub>review&#x3e;. (3 pages).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00033">
+<othercit>Hooded Scarf. Long Scarf. Wool Scarf . . . [on-line]; [review posted to the Internet on Dec. 23, 2014]; [retrieved from the Internet on Mar. 3, 2017]; URL: &#x3c;https://www.etsy.com/listing/170255685/hooded-scarf-long-scarf-wool-scarf?ref=shop<sub>&#x2014;</sub>review&#x3e;. (3 pages).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00034">
+<othercit>DIY Hooded Scarf with Free Pattern, [on-line]; [publication posted to the Internet on Oct. 24, 2016]; [retrieved from the Internet on Feb. 24, 2017]; URL: http://www.joann.com/blog-DIY-Hooded-Scarf-with-Free-Pattern.html?fdid=fashionblogDir. (6 pages).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+</us-references-cited>
+<number-of-claims>1</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>D 2500</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 2501</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 2502</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 2503</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 2508</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 2600</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 2601</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 2602</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 2825</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 2865</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 2866</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 2878</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 2879</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 2880</main-classification>
+</classification-national>
+<classification-cpc-text>A41D 1/04</classification-cpc-text>
+<classification-cpc-text>A41D 3/08</classification-cpc-text>
+<classification-cpc-text>A41D 23/00</classification-cpc-text>
+<classification-cpc-text>A41D 2023/002</classification-cpc-text>
+<classification-cpc-text>A41D 2023/004</classification-cpc-text>
+<classification-cpc-text>A41D 2023/0006</classification-cpc-text>
+<classification-cpc-text>A41D 25/00</classification-cpc-text>
+<classification-cpc-text>A41D 25/02</classification-cpc-text>
+<classification-cpc-text>A41D 25/16</classification-cpc-text>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>5</number-of-drawing-sheets>
+<number-of-figures>6</number-of-figures>
+</figures>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only">
+<addressbook>
+<last-name>Cooper</last-name>
+<first-name>Robin</first-name>
+<address>
+<city>Birmingham</city>
+<state>AL</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Cooper</last-name>
+<first-name>Robin</first-name>
+<address>
+<city>Birmingham</city>
+<state>AL</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Stevenson IP, LLC</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</us-parties>
+<examiners>
+<primary-examiner>
+<last-name>Eldridge Powers</last-name>
+<first-name>Karen E.</first-name>
+<department>2921</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Mlinarcik</last-name>
+<first-name>Jasmine</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="235.12mm" wi="229.45mm" file="USD0807618-20180116-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="221.32mm" wi="157.06mm" file="USD0807618-20180116-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="225.98mm" wi="158.75mm" file="USD0807618-20180116-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="227.08mm" wi="103.63mm" file="USD0807618-20180116-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="203.96mm" wi="158.75mm" file="USD0807618-20180116-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="234.95mm" wi="139.19mm" file="USD0807618-20180116-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<p id="p-0001" num="0001"><figref idref="DRAWINGS">FIG. 1</figref> is a front elevation view of a hooded scarf showing my new design;</p>
+<p id="p-0002" num="0002"><figref idref="DRAWINGS">FIG. 2</figref> is a rear elevation view thereof;</p>
+<p id="p-0003" num="0003"><figref idref="DRAWINGS">FIG. 3</figref> is a right side elevation view thereof, the opposite side being a mirror image of the shown;</p>
+<p id="p-0004" num="0004"><figref idref="DRAWINGS">FIG. 4</figref> is a top plan view thereof;</p>
+<p id="p-0005" num="0005"><figref idref="DRAWINGS">FIG. 5</figref> is a bottom plan view thereof; and,</p>
+<p id="p-0006" num="0006"><figref idref="DRAWINGS">FIG. 6</figref> is an isometric view of the hooded scarf, as it may appear when worn.</p>
+<p id="p-0007" num="0007">The broken lines in <figref idref="DRAWINGS">FIG. 6</figref> of the drawings depict a wearer as environmental subject matter only and form no part of the claimed design.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+</description>
+<us-claim-statement>CLAIM</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>The ornamental design for a hooded scarf, as shown and described.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

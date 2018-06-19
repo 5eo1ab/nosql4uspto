@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v45-2014-04-03.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.5 2014-04-03" file="USD0806354-20180102.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20171218" date-publ="20180102">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>D0806354</doc-number>
+<kind>S1</kind>
+<date>20180102</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="design">
+<document-id>
+<country>US</country>
+<doc-number>29565291</doc-number>
+<date>20160519</date>
+</document-id>
+</application-reference>
+<us-application-series-code>29</us-application-series-code>
+<us-term-of-grant>
+<length-of-grant>15</length-of-grant>
+</us-term-of-grant>
+<classification-locarno>
+<edition>11</edition>
+<main-classification>0201</main-classification>
+</classification-locarno>
+<classification-national>
+<country>US</country>
+<main-classification>D 2719</main-classification>
+</classification-national>
+<invention-title id="d2e53">Sleeping garment</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>2242130</doc-number>
+<kind>A</kind>
+<name>Hutchison</name>
+<date>19410500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A47G 9/066</classification-cpc-text>
+<classification-national><country>US</country><main-classification>  2 695</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>2496922</doc-number>
+<kind>A</kind>
+<name>Virtue</name>
+<date>19500200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A41B 13/06</classification-cpc-text>
+<classification-national><country>US</country><main-classification>  2111</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>2651781</doc-number>
+<kind>A</kind>
+<name>Buchholz</name>
+<date>19530900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A41B 13/06</classification-cpc-text>
+<classification-national><country>US</country><main-classification>  2 695</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>D296378</doc-number>
+<kind>S</kind>
+<name>Coates</name>
+<date>19880600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 2719</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>D606282</doc-number>
+<kind>S</kind>
+<name>Chen</name>
+<date>20091200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 2719</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>D643596</doc-number>
+<kind>S</kind>
+<name>Ashworth</name>
+<date>20110800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 2719</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>D650153</doc-number>
+<kind>S</kind>
+<name>Chopak</name>
+<date>20111200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 2719</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>D669659</doc-number>
+<kind>S</kind>
+<name>Barski</name>
+<date>20121000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 2719</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>8607364</doc-number>
+<kind>B2</kind>
+<name>Barski</name>
+<date>20131200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A41B 13/06</classification-cpc-text>
+<classification-national><country>US</country><main-classification>  2111</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>D716526</doc-number>
+<kind>S</kind>
+<name>Harris</name>
+<date>20141100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 2719</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>D718017</doc-number>
+<kind>S</kind>
+<name>Barski</name>
+<date>20141100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 2719</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>D728198</doc-number>
+<kind>S</kind>
+<name>Barski</name>
+<date>20150500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 2719</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>D728199</doc-number>
+<kind>S</kind>
+<name>Barski</name>
+<date>20150500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 2719</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>D778534</doc-number>
+<kind>S</kind>
+<name>Bopanna</name>
+<date>20170200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 2719</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>2005/0120459</doc-number>
+<kind>A1</kind>
+<name>McConnell</name>
+<date>20050600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>G01K 13/002</classification-cpc-text>
+<classification-national><country>US</country><main-classification>  2 695</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>2006/0236441</doc-number>
+<kind>A1</kind>
+<name>Johnson</name>
+<date>20061000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A41B 13/06</classification-cpc-text>
+<classification-national><country>US</country><main-classification>  2 695</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>2015/0121603</doc-number>
+<kind>A1</kind>
+<name>Lang</name>
+<date>20150500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A41B 13/005</classification-cpc-text>
+<classification-national><country>US</country><main-classification>  2 80</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>2016/0128392</doc-number>
+<kind>A1</kind>
+<name>Krawchuk</name>
+<date>20160500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A41B 13/06</classification-cpc-text>
+<classification-national><country>US</country><main-classification>128873</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<nplcit num="00019">
+<othercit>HALO SleepSack Micro-Fleece Wearable Blanket, posted at amazon.com, earliest date reviewed Mar. 19, 2003, [online], acquired on Mar. 1, 2017. Available from Internet, &#x3c;URL: https://www.amazon.com/SleepSack-Micro-Fleece-Wearable-Blanket-Medium/dp/B0000BX8MT/ref=cm<sub>&#x2014;</sub>cr<sub>&#x2014;</sub>arp<sub>&#x2014;</sub>d<sub>&#x2014;</sub>product<sub>&#x2014;</sub>top?ie=UTF8&#x3e;.</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+</us-references-cited>
+<number-of-claims>1</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>D 2710</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 2715-717</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 2719</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 2724</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 2739</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 2749</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 2750</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 2759</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 2760</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 2769</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 2771</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 2780</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 2786</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 2791</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 2812</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 2828</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 2836</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 2839-841</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 2857</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 2864</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 6589</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 6595</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 6596</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 6598</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 6601-603</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 6617</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D21803-809</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-cpc-text>A47G 9/08</classification-cpc-text>
+<classification-cpc-text>A47G 9/083</classification-cpc-text>
+<classification-cpc-text>A47G 9/086</classification-cpc-text>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>3</number-of-drawing-sheets>
+<number-of-figures>3</number-of-figures>
+</figures>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only">
+<addressbook>
+<last-name>Calodoukas</last-name>
+<first-name>Eileen Joanna</first-name>
+<address>
+<city>Elanora Heights</city>
+<country>AU</country>
+</address>
+</addressbook>
+<residence>
+<country>AU</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Calodoukas</last-name>
+<first-name>Eileen Joanna</first-name>
+<address>
+<city>Elanora Heights</city>
+<country>AU</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Myers Wolin, LLC</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</us-parties>
+<examiners>
+<primary-examiner>
+<last-name>Brooks</last-name>
+<first-name>Cathron</first-name>
+<department>2915</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Soroush</last-name>
+<first-name>Aula</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="155.02mm" wi="167.30mm" file="USD0806354-20180102-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="163.58mm" wi="158.75mm" file="USD0806354-20180102-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="165.78mm" wi="158.75mm" file="USD0806354-20180102-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="178.48mm" wi="119.89mm" file="USD0806354-20180102-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<p id="p-0001" num="0001"><figref idref="DRAWINGS">FIG. 1</figref> is a front view of a sleeping garment showing my new design;</p>
+<p id="p-0002" num="0002"><figref idref="DRAWINGS">FIG. 2</figref> is a back view thereof; and,</p>
+<p id="p-0003" num="0003"><figref idref="DRAWINGS">FIG. 3</figref> is a front view with sleeves zippered across the front thereof.</p>
+<p id="p-0004" num="0004">The single broken lines in the drawings depict portions of the sleeping garment that form no part of the claimed design. The double dash lines on the back surface of the garment and the dotted lines at the wrists of the garment depict stitching on the garment, and form no part of the claimed design. All of the seams on the garment have no appreciable thickness. Additionally, the diagonal lines across the front of the sleeping garment depict zipper tracks for mating with the zipper tracks along the length of the sleeves, and have no appreciable thickness.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+</description>
+<us-claim-statement>CLAIM</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>The ornamental design for a sleeping garment, as shown and described.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>
