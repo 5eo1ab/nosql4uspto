@@ -22,24 +22,27 @@ def weekly_xml_files(f_nm, base_url):
 	else:
 		# $ pip install selenium
 		from selenium import webdriver
+		c_options = webdriver.ChromeOptions()
+		prefs = {"download.default_directory" : os.getcwd()+'/temp_file'}
+		c_options.add_experimental_option("prefs",prefs)
+		cd_dir = '/usr/lib/chromium-browser/chromedriver'
+		browser = webdriver.Chrome(executable_path=cd_dir, chrome_options=c_options)
+		""" # setting for firefox (didn't work terminal env.)
 		fp = webdriver.FirefoxProfile()
 		fp.set_preference("browser.download.folderList",2)
 		fp.set_preference("browser.download.manager.showWhenStarting",False)
 		fp.set_preference("browser.download.dir", os.getcwd()+'/temp_file')
 		fp.set_preference("browser.helperApps.neverAsk.saveToDisk","application/zip, application/x-zip, application/x-zip-compressed, application/download")
 		fp.set_preference("browser.download.panel.shown", False)
-
 		browser = webdriver.Firefox(firefox_profile=fp)
 		#browser.set_page_load_timeout(500) # default : 300
-		try:
-			browser.get(base_url+f_nm)
-			browser.quit()
-		except:
-			import time
-			while not os.path.getsize('./temp_file/{}'.format(f_nm)) > 0:
-				print("#", end='')
-				time.sleep(10)
-			browser.quit()
+		"""
+		browser.get(base_url+f_nm)
+		import time
+		while not os.path.isfile('./temp_file/{}'.format(f_nm)):
+			print('#', end='')
+			time.sleep(10)
+		browser.close()
 		print("\n[1] download ZIP file: {}".format(f_nm))
 	# [2] unzip ZIP file to concatnated XML file
 	if os.path.exists('./temp_file/{}.xml'.format(f_nm[:-4])):
