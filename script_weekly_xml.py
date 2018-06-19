@@ -4,8 +4,8 @@ import os
 import sys
 
 def set_work_dir(f_nm):
-	if not os.path.exists('./utility'):
-		print("!!!!!!!!!!!! install geckodriver (for selenium) !!!!!!!!!!!!")
+	if not os.path.exists('/usr/lib/chromium-browser/chromedriver'):
+		print("!!!!!!!!!!!! install chrome-webdriver (for selenium) !!!!!!!!!!!!")
 		print("reference: setting_utility.md")
 		import sys
 		sys.exit()
