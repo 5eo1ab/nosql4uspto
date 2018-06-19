@@ -3,7 +3,7 @@
 ## directory
 /temp*
 /utility*
-
+/__pycache__/
 
 ## script file
 untitle*.py

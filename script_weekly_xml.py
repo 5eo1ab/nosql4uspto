@@ -13,8 +13,13 @@ def set_work_dir(f_nm):
 	if not os.path.exists('./temp_file/{}'.format(f_nm[:-4])):
 		os.makedirs('./temp_file/{}'.format(f_nm[:-4]))
 	return None
+def get_base_url(f_nm):
+	year = '20{}'.format(f_nm[3:5])
+	print(year)
+	base_url = "https://bulkdata.uspto.gov/data/patent/grant/redbook/fulltext/{}/{}".format(year, f_nm)
+	return base_url
 
-def weekly_xml_files(f_nm, base_url):
+def weekly_xml_files(f_nm):
 	set_work_dir(f_nm)
 	# [1] download ZIP file from USPTO
 	if os.path.exists('./temp_file/{}'.format(f_nm)):
@@ -39,7 +44,7 @@ def weekly_xml_files(f_nm, base_url):
 		#browser.set_page_load_timeout(500) # default : 300
 		"""
 		try:
-			browser.get(base_url+f_nm)
+			browser.get(get_base_url(f_nm))
 			import time
 			while not os.path.exists('./temp_file/{}'.format(f_nm)):
 				print('#', end='')
@@ -82,6 +87,5 @@ if __name__ == '__main__':
 		meta_read = f.read().split('\n')
 	f_nm = meta_read[IDX].split(',')[0]
 	print("file name: {}".format(f_nm))
-	base_url = "https://bulkdata.uspto.gov/data/patent/grant/redbook/fulltext/{}/".format(YEAR)
-	weekly_xml_files(f_nm, base_url)
+	weekly_xml_files(f_nm)
 	
