@@ -24,6 +24,7 @@ def weekly_xml_files(f_nm, base_url):
 		from selenium import webdriver
 		c_options = webdriver.ChromeOptions()
 		prefs = {"download.default_directory" : os.getcwd()+'/temp_file'}
+		c_options.add_argument("--headless")
 		c_options.add_experimental_option("prefs",prefs)
 		cd_dir = '/usr/lib/chromium-browser/chromedriver'
 		browser = webdriver.Chrome(executable_path=cd_dir, chrome_options=c_options)
