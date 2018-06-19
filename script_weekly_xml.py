@@ -1,4 +1,5 @@
-# source url: https://bulkdata.uspto.gov/data/patent/grant/redbook/fulltext/2018/
+# script for weekly_xml functions
+# base url: https://bulkdata.uspto.gov/data/patent/grant/redbook/fulltext/2018/
 
 import os
 import sys
@@ -25,11 +26,9 @@ def weekly_xml_files(f_nm):
 	if os.path.exists('./temp_file/{}'.format(f_nm)):
 		print("[1] exists ZIP file: {}".format(f_nm))
 	else:
-		# $ pip install selenium
 		from selenium import webdriver
 		c_options = webdriver.ChromeOptions()
 		prefs = {"download.default_directory" : os.getcwd()+'/temp_file'}
-		#c_options.add_argument("--headless")
 		c_options.add_experimental_option("prefs",prefs)
 		cd_dir = '/usr/lib/chromium-browser/chromedriver'
 		browser = webdriver.Chrome(executable_path=cd_dir, chrome_options=c_options)

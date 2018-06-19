@@ -1,10 +1,10 @@
 # script for metadata_zip_files
 """
+# source url: https://bulkdata.uspto.gov/#rsrch
 Patent Grant Full Text Data (No Images) (JAN 1976 - PRESENT)
 Contains the full text of each patent grant issued weekly (Tuesdays) from January 1, 1976 to present (excludes images/drawings). Subset of the Patent Grant Full Text Data with Embedded TIFF Images.
-source url : https://bulkdata.uspto.gov/#rsrch
 """
-# source url: https://bulkdata.uspto.gov/data/patent/grant/redbook/fulltext/2018/
+# base url: https://bulkdata.uspto.gov/data/patent/grant/redbook/fulltext/2018/
 
 import os
 import requests

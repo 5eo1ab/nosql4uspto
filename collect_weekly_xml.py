@@ -1,4 +1,4 @@
-# source url: https://pypi.org/project/xmljson/
+# parallel running for collect weekly_xml files
 
 import sys
 import multiprocessing
