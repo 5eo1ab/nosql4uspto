@@ -1,7 +1,7 @@
 # nosql4uspto
 uspto patent data-pipeline for nosql system
 
-### Environments
+## 0. Environments
 - OS: Ubuntu 16.04.4 LTS  
 - Script language: Python 3.6.4 :: Anaconda custom (64-bit)  
 - Database: MongoDB shell version v3.6.5
@@ -13,4 +13,3 @@ uspto patent data-pipeline for nosql system
 ```$ python run_insert_mongo.py {$YEAR}```
 
 
- 
