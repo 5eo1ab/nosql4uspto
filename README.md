@@ -46,7 +46,7 @@ uspto patent data-pipeline for nosql system
 >
 ### 2.2. 데이터 결과
 >
-> * a sample record () for each system (image)
+![image](./md_img/ex_xml2json.jpeg)
 >
 >
 ### test query 
