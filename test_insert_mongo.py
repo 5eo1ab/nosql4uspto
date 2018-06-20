@@ -18,11 +18,9 @@ if __name__ == '__main__':
 	if not os.path.exists('./sample_file/json_sample'):
 		os.mkdir('./sample_file/json_sample')
 	for i, js in enumerate(json_list):
-		with open('json_sample_{}.json'.format(i), 'w') as f:
+		with open('./sample_file/json_sample/json_sample_{}.json'.format(i), 'w') as f:
 			json.dump(js, f)
 
-	"""
 	manager = MONGO_MANAGER(db_type="mongo", db_name="uspto")
 	manager.insert('patent', json_list[0])
 	manager.insert_many('patent', json_list[1:])
-	"""
