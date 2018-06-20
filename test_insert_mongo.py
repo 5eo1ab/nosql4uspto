@@ -1,6 +1,6 @@
 # convert xml to json, then insert to mongodb for test.
 
-import os
+import os, json
 from lib_insert_mongo import convert_XML2Json
 from lib_insert_mongo import MONGO_MANAGER
 
@@ -15,7 +15,14 @@ if __name__ == '__main__':
 	json_list = [convert_XML2Json(path) for path in path_list]
 	#print(json_list[0])
 
+	if not os.path.exists('./sample_file/json_sample'):
+		os.mkdir('./sample_file/json_sample')
+	for i, js in enumerate(json_list):
+		with open('json_sample_{}.json'.format(i), 'w') as f:
+			json.dump(js, f)
+
+	"""
 	manager = MONGO_MANAGER(db_type="mongo", db_name="uspto")
 	manager.insert('patent', json_list[0])
 	manager.insert_many('patent', json_list[1:])
-
+	"""
