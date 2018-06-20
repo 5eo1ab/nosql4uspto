@@ -18,3 +18,21 @@ $ sudo pip3 install selenium
 $ sudo apt-get install chromium-chromedriver
 ```
 
+## install mongodb
+reference url: https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/
+## install pymongo
+```
+$ python -m pip install --upgrade pymongo
+Installing collected packages: pymongo
+Successfully installed pymongo-3.6.1
+```
+
+## install spluck connector
+```
+$ pip install splunk-sdk
+Installing collected packages: splunk-sdk
+Successfully installed splunk-sdk-1.6.4
+
+$ export PYTHONPATH=~/splunk-sdk-python
+```
+

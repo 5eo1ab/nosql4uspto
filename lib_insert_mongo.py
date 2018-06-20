@@ -44,7 +44,8 @@ class MONGO_MANAGER:  # DB manage class
 		else:
 			print("DB connect error occur!")
 
-def insert_mongo(json_list):
+def insert_mongo(fpath_list):
+	json_list = [convert_XML2Json(fpath) for fpath in fpath_list]
 	manager = MONGO_MANAGER(db_type="mongo", db_name="uspto")
 	manager.insert_many('patent', json_list)
 	return None
